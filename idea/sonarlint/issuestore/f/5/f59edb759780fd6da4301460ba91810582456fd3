@@ -1,0 +1,9 @@
+
+]
+java:S1700"Rename field "snacks"(¾ÆÎîÿÿÿÿÿ8ßËÎ¸2J$77f343b6-73f4-45a1-bfb1-dc82b2492c52
+_
+java:S1643"Use a StringBuilder instead.(¸éØ“8ßËÎ¸2J$a0ea800f-8e21-4735-8819-1a2b23e3e4ad
+|
+java:S1118":Add a private constructor to hide the implicit public one.(í—›B8öàÎ¸2J$479e7b28-b03d-44a9-8f3e-664029a41c34
+r	java:S106"+Replace this use of System.out by a logger.(“º¸¥ûÿÿÿÿ8ûàÎ¸2J$f832dbca-8d29-4b85-9d7f-9831a2b19d32
+m	java:S106"+Replace this use of System.out by a logger.(ßÜ¤Ï8ûàÎ¸2J$1da03f51-4bb6-4a5d-b33d-7add6a6d0928
